@@ -5,7 +5,7 @@ end
 
 def my_hash
   example2 = {
-    :name => "Zac"
+    :name => "Zac",
     :city => "Chicago"
   }
   return example2

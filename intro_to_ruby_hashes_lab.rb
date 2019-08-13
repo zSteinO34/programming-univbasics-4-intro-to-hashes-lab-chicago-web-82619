@@ -25,7 +25,7 @@ end
 
 def my_hash_creator(key, value)
   example5 = {
-    :key => value
+    key => value
   }
 end
 
